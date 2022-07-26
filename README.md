@@ -1,1 +1,1 @@
-# Meeting-Scheduler-Using-Priority-Queues-
+# Meeting-Scheduler-Using-Priority-Queues
